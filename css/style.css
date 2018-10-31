@@ -6,7 +6,7 @@ body{
 /*************************START OF NAVIGATION*************************/
 
 .nav-bar{
-    background-color:#00cccc; /*teal*/
+    background-color:purple; /*teal*/
     height:170px;
     width:100%;
     overflow:hidden;
